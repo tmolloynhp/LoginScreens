@@ -1,0 +1,10 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: Operator
+  Id: g=4c53944ca5b25a6837c9a4c37d2c7341
+  Type: UserType
+- Name: Engineer
+  Id: g=2e1f0293cfd83b7f26ff01550ac7e8cb
+  Type: UserType
